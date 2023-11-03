@@ -1,0 +1,1 @@
+web: gunidorn animal.wsgi --log-file -
